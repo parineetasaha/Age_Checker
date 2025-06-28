@@ -1,0 +1,42 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: linear-gradient(rgba(119, 149, 1, 0.868),rgba(231, 228, 220, 0.613),rgba(201, 166, 70, 0.868));
+  text-align: center;
+}
+h1{
+    font-size: 3em;
+    color: rgb(96, 13, 2);
+    margin: 100px;
+}
+#my-lable{
+    font-size: 2em;
+    font-weight: 700;
+}
+#my-text{
+    margin: 20px;
+    padding: 20px 50px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+#my-button{
+    padding: 10px 30px;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: rgb(235, 97, 97);
+    background: rgba(12, 2, 76, 0.882);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+#my-button:hover{
+    color: rgba(12, 2, 76, 0.903);
+    background: rgb(235, 97, 97);
+}
+#my-lable1{
+    font-size: 2em;
+    font-weight: 500;
+    color: red;
+}
